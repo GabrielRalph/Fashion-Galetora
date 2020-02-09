@@ -1,12 +1,13 @@
 {
-  "database": [
+  "test-database": [
     {
+      "keywords": "star pants,BB89XZ,black,silk,lad di da,red embroidered stars,8 sets of 6 unique stars embrodered in a red running stich",
       "title": "star pants",
       "plate": "BB89XZ",
       "color": "black",
       "material": "silk",
+      "description": "Silky star pants, light and flowing",
       "price": 160,
-      "lining": false,
       "disp_image_url": "https://cdn-images.farfetch-contents.com/gucci-gg-star-print-track-pants_14020545_21267311_800.jpg?c=2",
       "details": [
         {
@@ -23,12 +24,13 @@
       ]
     },
     {
+      "keywords": "track pants,CJY85U,black,cotton,black bulky zippers,2 sets of black ykk zipper pockets on front of pants",
       "title": "track pants",
       "plate": "CJY85U",
       "color": "black",
-      "material": "cotten",
+      "material": "cotton",
+      "description": "lad di da",
       "price": 120,
-      "lining": false,
       "disp_image_url": "https://d3hed5rtv63hp1.cloudfront.net/products/328237/large/544596TXE03_1055_7926.JPG?1536152261",
       "details": [
         {
@@ -39,12 +41,13 @@
       ]
     },
     {
+      "keywords": "star pants,UNPAID,cream,linen,orange bulky zippers,2 sets of black ykk zipper pockets on front of pants,fluro orange embroidered stars,8 sets of 6 unique stars embrodered in a fulro orange running stich",
       "title": "star pants",
       "plate": "UNPAID",
+      "description": "lad di da",
       "color": "cream",
       "material": "linen",
       "price": 160,
-      "lining": "silk",
       "disp_image_url": "https://cdn-images.farfetch-contents.com/gucci-loose-fit-check-linen-trousers_14020239_20286982_400.jpg?c=2",
       "details": [
         {
