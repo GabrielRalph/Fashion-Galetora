@@ -1,0 +1,63 @@
+{
+  "database": [
+    {
+      "title": "star pants",
+      "plate": "BB89XZ",
+      "color": "black",
+      "material": "silk",
+      "price": 160,
+      "lining": false,
+      "disp_image_url": "https://cdn-images.farfetch-contents.com/gucci-gg-star-print-track-pants_14020545_21267311_800.jpg?c=2",
+      "details": [
+        {
+          "image_url": "https://www.thesprucecrafts.com/thmb/pxvbRoUzLnqrjzoDA0q92El3RKg=/2000x1339/filters:no_upscale():max_bytes(150000):strip_icc()/StarStitch-58549a115f9b586e02372156.jpg",
+          "caption": "red embroidered stars",
+          "description": "8 sets of 6 unique stars embrodered in a red running stich"
+        },
+
+        {
+          "image_url": "https://www.thezipperlady.com/assets/images/img_6598.jpg",
+          "caption": "red bulky zippers",
+          "description": "2 sets of red ykk zipper pockets on front of pants"
+        }
+      ]
+    },
+    {
+      "title": "track pants",
+      "plate": "CJY85U",
+      "color": "black",
+      "material": "cotten",
+      "price": 120,
+      "lining": false,
+      "disp_image_url": "https://d3hed5rtv63hp1.cloudfront.net/products/328237/large/544596TXE03_1055_7926.JPG?1536152261",
+      "details": [
+        {
+          "image_url": "https://ae01.alicdn.com/kf/HTB1G3iycB1D3KVjSZFyq6zuFpXa0/40pcs-lot-Long-Plastic-YKK-Zipper-Close-End-Fastener-Black-8-Resin-Pocket-Bag-Collar-Dress.jpg",
+          "caption": "black bulky zippers",
+          "description": "2 sets of black ykk zipper pockets on front of pants"
+        }
+      ]
+    },
+    {
+      "title": "star pants",
+      "plate": "UNPAID",
+      "color": "cream",
+      "material": "linen",
+      "price": 160,
+      "lining": "silk",
+      "disp_image_url": "https://cdn-images.farfetch-contents.com/gucci-loose-fit-check-linen-trousers_14020239_20286982_400.jpg?c=2",
+      "details": [
+        {
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQe6fJxme92rhP77vWz2tOPtjMiLJim3EaTZHEMHAKvyoeMqu5z",
+          "caption": "orange bulky zippers",
+          "description": "2 sets of black ykk zipper pockets on front of pants"
+        },
+        {
+          "image_url": "https://i.etsystatic.com/10658292/r/il/edeb41/855817884/il_570xN.855817884_fpzc.jpg",
+          "caption": "fluro orange embroidered stars",
+          "description": "8 sets of 6 unique stars embrodered in a fulro orange running stich"
+        }
+      ]
+    }
+  ]
+}
